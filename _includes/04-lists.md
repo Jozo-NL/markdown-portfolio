@@ -1,0 +1,3 @@
+- :sunny:
+- :zzz:
+- :computer:
